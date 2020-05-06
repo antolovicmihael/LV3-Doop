@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lv3
+namespace Lv3_Zad2
 {
     class Dataset : Prototype
     {
